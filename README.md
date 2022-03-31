@@ -4,7 +4,7 @@ I am a post-doctoral researcher studying gene regulation at [NCMM](https://www.m
 
 My main programming expertise is in `R` and `perl`
 
-- 💬 Ask me about: bioinformatics of transcription factor binding motifs
+- 💬 Ask me about: bioinformatics of transcription factor binding motifs, `dplyr`, and runes.
 - 🌱 I’m currently learning `python` and `c++`
 - 📫 How to reach me: j.a.c.mondragon@ncmm.uio.no or visit [my website](https://jaimicore.github.io/). 
 
