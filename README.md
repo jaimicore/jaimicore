@@ -7,7 +7,7 @@
 
 🐦 **Twitter:** [@jaimicore](https://twitter.com/jaimicore)
  
-
+<img align="right" src="https://github.com/jaimicore/jaimicore/blob/main/JASPAR.png" width="300">
 
 Hi there! I am a post-doctoral researcher studying gene regulation at [NCMM](https://www.med.uio.no/ncmm/english/), in [Anthony Mathelier's Lab](https://mathelierlab.com/) in Oslo, Norway.
 
@@ -21,9 +21,6 @@ My main programming expertise is in `R` and `perl`
 
 <!--
 **jaimicore/jaimicore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img align="right" src="https://github.com/allisonhorst/allisonhorst/blob/main/horst_rtist.png" width="300">
-
 
 Here are some ideas to get you started:
 
