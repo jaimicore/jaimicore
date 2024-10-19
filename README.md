@@ -11,11 +11,11 @@
 
 Hi there! I am a bioinformatician at [Nykode therapeutics](https://nykode.com/), previously I was a postdoc at the University of Oslo in [Anthony Mathelier's Lab](https://mathelierlab.com/).
 
-My main scientific interests are gene transcriptional regulation, DNA sequence analysis and transcription factors. Currently I am working with protein cleavage.
+My main scientific interests are gene transcriptional regulation, DNA sequence analysis and transcription factors. Currently I am working with protein cleavage, protein structure and developing bioinformatic pipelines.
 
 My main programming expertise is in `R`, `python` and `perl`
 
-- 💬 Ask me about: bioinformatics of transcription factor binding motifs, negative controls, or runes.
+- 💬 Ask me about: bioinformatics of transcription factor binding motifs, gene expression regulation or design of negative controls.
 - 🌱 I’m currently learning `rust`.
 - 📫 j.a.castro.mondragon@gmail.com OR jacmondragon@nykode.com 
 
