@@ -5,7 +5,7 @@
   
 📝 **Personal website:** [jaimicore.github.io](https://jaimicore.github.io/)
 
-🐦 **Twitter:** [@jaimicore](https://twitter.com/jaimicore)
+🔵 **BlueSky:** [@jaimicore](https://bsky.app/profile/jaimicore.bsky.social)
  
 <img align="right" src="https://github.com/jaimicore/jaimicore/blob/main/JASPAR.png" width="300">
 
