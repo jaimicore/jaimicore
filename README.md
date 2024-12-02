@@ -5,7 +5,7 @@
   
 📝 **Personal website:** [jaimicore.github.io](https://jaimicore.github.io/)
 
-🔵 **BlueSky:** [@jaimicore](https://bsky.app/profile/jaimicore.bsky.social)
+🔵 **Bluesky:** [@jaimicore](https://bsky.app/profile/jaimicore.bsky.social)
  
 <img align="right" src="https://github.com/jaimicore/jaimicore/blob/main/JASPAR.png" width="300">
 
@@ -13,7 +13,7 @@ Hi there! I am a bioinformatician at [Nykode therapeutics](https://nykode.com/),
 
 My main scientific interests are gene transcriptional regulation, DNA sequence analysis and transcription factors. Currently I am working with protein cleavage, protein structure and developing bioinformatic pipelines.
 
-My main programming expertise is in `R`, `python` and `perl`
+My main programming expertise is in `R`, `python` and `perl` and in I'm a big fan of data visualization.
 
 - 💬 Ask me about: bioinformatics of transcription factor binding motifs, gene expression regulation or design of negative controls.
 - 🌱 I’m currently learning `rust`.
