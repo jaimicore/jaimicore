@@ -17,7 +17,7 @@ My main programming expertise is in `R`, `python` and `perl` and in I'm a big fa
 
 - 💬 Ask me about: bioinformatics of transcription factor binding motifs, gene expression regulation or design of negative controls.
 - 🌱 I’m currently learning `rust`.
-- 📫 j.a.castro.mondragon@gmail.com OR jacmondragon@nykode.com 
+- 📫 j.a.castro.mondragon@gmail.com
 
 <!--
 **jaimicore/jaimicore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
