@@ -9,7 +9,7 @@
  
 <img align="right" src="https://github.com/jaimicore/jaimicore/blob/main/JASPAR.png" width="300">
 
-Hi there! I am a bioinformatician at [Nykode therapeutics](https://nykode.com/), previously I was a postdoc at the University of Oslo in [Anthony Mathelier's Lab](https://mathelierlab.com/).
+Hi there! I am a bioinformatician specialized in sequence analysis with +10 years of experience in both academic and private sector.
 
 My main scientific interests are gene transcriptional regulation, DNA sequence analysis and transcription factors. Currently I am working with protein cleavage, protein structure and developing bioinformatic pipelines.
 
@@ -17,7 +17,7 @@ My main programming expertise is in `R`, `python` and `perl` and in I'm a big fa
 
 - 💬 Ask me about: bioinformatics of transcription factor binding motifs, gene expression regulation or design of negative controls.
 - 🌱 I’m currently learning `rust`.
-- 📫 j.a.castro.mondragon@gmail.com
+- 📫 j.a.castro.mondragon@gmail.com OR jacmondragon@nykode.com 
 
 <!--
 **jaimicore/jaimicore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
