@@ -25,27 +25,6 @@ You can find me on:
 - 📝 **Personal website:** [jaimicore.github.io](https://jaimicore.github.io/)
 
 - 🔵 **Bluesky:** [@jaimicore](https://bsky.app/profile/jaimicore.bsky.social)
-
-- 📫 **Email:** j.a.castro.mondragon@gmail.com 
-
-
-
-<!--
-**jaimicore/jaimicore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
- ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 💬 Ask me about: bioinformatics of transcription factor binding motifs, gene expression regulation or design of negative controls.
-- 🌱 I’m currently learning `rust`.
-- 📫 j.a.castro.mondragon@gmail.com
-
--->
+- :link:: [Linkedin](https://www.linkedin.com/in/jaime-castro-mondragon/)
+- 📫 **Email:** j.a.castro.mondragon@gmail.com
+- 📫 **Email:** jamondra@uio.no 
