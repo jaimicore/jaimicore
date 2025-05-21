@@ -26,5 +26,4 @@ You can find me on:
 
 - 🔵 **Bluesky:** [@jaimicore](https://bsky.app/profile/jaimicore.bsky.social)
 - :link:: [Linkedin](https://www.linkedin.com/in/jaime-castro-mondragon/)
-- 📫 **Email:** j.a.castro.mondragon@gmail.com
-- 📫 **Email:** jamondra@uio.no 
+- 📫 **Email:** j.a.castro.mondragon@gmail.com or jamondra@uio.no 
