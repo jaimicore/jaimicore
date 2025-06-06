@@ -15,7 +15,8 @@ My main programming expertise is in `R`, `python` and `perl` and in I'm a big fa
 <img align="right" src="https://github.com/jaimicore/jaimicore/blob/main/JASPAR.png" width="300">
 
 I am a computational biologist researcher from 🇲🇽 living in 🇳🇴 with +10 years of experience in both academic and private sector.
-My main expertise is in DNA/protein sequence analysis, developing bioinformatic pipelines and development of bioinformatic methods. 
+
+My main expertise is in DNA/protein sequence analysis, data visualization, and development of bioinformatic methods and pipelines. 
 
 I live in the limbo of automating processes on the computer and crafting stuff in the material world.
 
