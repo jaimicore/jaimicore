@@ -10,7 +10,7 @@ My main programming expertise is in `R`, `python` and `perl` and in I'm a big fa
 
 -->
 
- ### Hi, I'm [@jaimicore](https://github.com/jaimicore) (Jaime Castro-Mondragon)
+ ### Hola, I'm [@jaimicore](https://github.com/jaimicore) (Jaime Abraham Castro-Mondragon)
  
 <img align="right" src="https://github.com/jaimicore/jaimicore/blob/main/JASPAR.png" width="300">
 
